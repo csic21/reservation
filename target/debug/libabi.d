@@ -1,1 +1,1 @@
-/home/xin/workspace/reservation/target/debug/libabi.rlib: /home/xin/workspace/reservation/abi/src/lib.rs
+/home/xin/workspace/reservation/target/debug/libabi.rlib: /home/xin/workspace/reservation/abi/build.rs /home/xin/workspace/reservation/abi/protos /home/xin/workspace/reservation/abi/protos/reservation.proto /home/xin/workspace/reservation/abi/src/lib.rs /home/xin/workspace/reservation/abi/src/pb/mod.rs /home/xin/workspace/reservation/abi/src/pb/reservation.rs
